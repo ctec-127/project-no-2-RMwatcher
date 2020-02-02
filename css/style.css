@@ -2,6 +2,26 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+    font-size: 1.3rem;
+    margin: 3em;
     padding: 0;
+    background-color: lightgreen;
+}
+
+.pink {
+    background-color: pink;
+    line-height: 0.7em;
+}
+
+.text {
+    font-size: 3rem;
+}
+
+header, footer {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+footer {
+    font-size: 1.3rem;
 }
